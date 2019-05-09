@@ -433,7 +433,7 @@ if __name__ == '__main__':
         exit(0)
 
     num_reps = 30000
-    n=1
+    n=3
     odie = Odie(n=n)
     print("n=",n)
     odie.clear_inventory()
